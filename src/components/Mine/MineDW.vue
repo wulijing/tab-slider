@@ -5,6 +5,7 @@
     </div>
     <div class="times" v-show="headtopOut">
       <span>{{DW}}</span>
+      <span>{{DWs}}</span>
     </div>
   </div>
 </template>
